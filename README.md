@@ -1,22 +1,29 @@
-### Hi Developers, I'm Antho 👋
+# My Personal Readme 
 
-![Logo noir](https://user-images.githubusercontent.com/68584530/232984423-b74ce795-b3b1-4e4f-9fae-6ba22517eec1.png)
+## Hi Developers, I'm Antho 👋 <img src="https://user-images.githubusercontent.com/68584530/232984423-b74ce795-b3b1-4e4f-9fae-6ba22517eec1.png" width=150 align="right">
 
-🛠️ WORK IN PROGRESS 🛠️
+Hello, my name is CORNILLEAU Anthony and I am a Fullstack Developer with little prefer for Back-end. 🤪
 
-<!--
-**Antho-cs/Antho-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My Language is :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,spring,symfony,laravel,python,js,angular,react,postgres,mysql)](https://skillicons.dev)
+
+### My Tools is :
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,jenkins,idea,eclipse,vscode,figma,postman,powershell)](https://skillicons.dev)
+
+- 🔭 I’m currently working on my video library with my Synology NAS.
+
+- 💬 Brainstorm with me over tech, algorithms or even career
+
+- 📫 How to reach me: Cornilleau2105+github@hotmail.fr
+
+- 😄 Pronouns: Programmer/He/Him
+
+- ⚡ Fun fact: I'm Gamer 🎮🕹️👾 and i like anime ! 👒⚔🏴‍☠️|🍥🥷🐸|🔥🧚🏼✨|
+
+- 📝 Resume (🛠️ Work in progress 🛠️)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antho-cs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
