@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Developers, I'm Antho 👋
+
+![Logo noir](https://user-images.githubusercontent.com/68584530/232984423-b74ce795-b3b1-4e4f-9fae-6ba22517eec1.png)
 
 🛠️ WORK IN PROGRESS 🛠️
 
