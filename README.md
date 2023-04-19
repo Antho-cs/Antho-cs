@@ -5,11 +5,11 @@
 Hello, my name is CORNILLEAU Anthony and I am a Fullstack Developer with little prefer for Back-end. 🤪
 
 
-### My Language is :
+### My Languages are :
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,symfony,laravel,python,js,angular,react,postgres,mysql)](https://skillicons.dev)
 
-### My Tools is :
+### My Tools are :
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,jenkins,idea,eclipse,vscode,figma,postman,powershell)](https://skillicons.dev)
 
