@@ -23,7 +23,7 @@ Hello, my name is CORNILLEAU Anthony and I am a Fullstack Developer with little 
 
 - ⚡ Fun fact: I'm Gamer 🎮🕹️👾 and i like anime ! 👒⚔🏴‍☠️|🍥🥷🐸|🔥🧚🏼✨|
   
-- 📝 Resume : To find out more about my projects, [click here](https://www.notion.so/Portfolio-5d905ad1502e43eb8d7bec5f4fc5939f?pvs=4){:target="_blank"}
+- 📝 Resume : To find out more about my projects, [click here](https://www.notion.so/Portfolio-5d905ad1502e43eb8d7bec5f4fc5939f?pvs=4)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antho-cs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
