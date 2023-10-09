@@ -27,4 +27,4 @@ Hello, my name is CORNILLEAU Anthony and I am a Fullstack Developer with little 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antho-cs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<img width="300" height="300" src="https://ionicabizau.github.io/github-profile-languages/api.html?@antho-cs" frameborder="0"></img>
+
