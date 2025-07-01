@@ -7,11 +7,11 @@ Hello, my name is CORNILLEAU Anthony and I am a Fullstack Developer with little 
 
 ### My Languages are :
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,symfony,laravel,python,js,angular,react,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,symfony,laravel,js,angular,react,postgres,mysql)](https://skillicons.dev)
 
 ### My Tools are :
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,jenkins,idea,eclipse,vscode,figma,postman,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,jenkins,idea,docker,vscode,figma,postman,powershell)](https://skillicons.dev)
 
 - 🔭 I’m currently working on my video library with my Synology NAS.
 
